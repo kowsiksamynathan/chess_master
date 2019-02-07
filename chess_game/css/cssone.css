@@ -1,0 +1,52 @@
+table{
+
+		border-collapse: collapse;
+}
+
+table ,th,tr {
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+
+
+
+th:hover{
+	background: lightblue;
+	cursor: pointer;
+}
+
+
+tr th{
+	text-align: center;
+}
+
+th{
+cursor: pointer;
+height: 100px;
+width: 100px;
+}
+
+
+.white_square{
+	background-color: #ffffff;
+	font-size: 60px;
+}
+
+.black_square{
+	background-color: #808080;
+	font-size: 60px;
+}
+
+
+
+
+.highlight
+{
+background: lightblue;
+}
+
+.highlightenemy
+{
+background: red;
+}
